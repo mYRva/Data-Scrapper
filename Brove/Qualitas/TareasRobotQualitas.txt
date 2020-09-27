@@ -1,0 +1,36 @@
+lapiz editar
+/html/body/form/div[5]/div[3]/div[2]/table/tbody/tr/td[1]/div/div[1]/table/tbody/tr[2]/td[2]/div/table/tbody/tr/td[1]/div/div/table/tbody/tr/td/a[3]
+texto fecha inicial
+/html/body/form/div[5]/div[3]/div[2]/table/tbody/tr/td[2]/div/div[1]/table/tbody/tr[2]/td[2]/div/div[2]/div[1]/div[1]/div/div/table/tbody/tr[2]/td/div/table/tbody/tr[1]/td[5]/span/input[1]
+boton actualizar
+/html/body/form/div[5]/div[3]/div[2]/table/tbody/tr/td[2]/div/div[1]/table/tbody/tr[2]/td[2]/div/div[2]/div[1]/div[1]/div/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td/input[1]
+
+
+
+
+lapiz editar 2
+/html/body/form/div[5]/div[3]/div[2]/table/tbody/tr/td[2]/div/div[1]/table/tbody/tr[2]/td[2]/div/div[2]/div[1]/div[1]/div/div/table/tbody/tr[2]/td[1]/input
+texto fecha final
+/html/body/form/div[5]/div[3]/div[2]/table/tbody/tr/td[2]/div/div[1]/table/tbody/tr[2]/td[2]/div/div[2]/div[1]/div[1]/div/div/table/tbody/tr[3]/td/div/table/tbody/tr[1]/td[5]/span/input[1]
+boton actualizar 2
+/html/body/form/div[5]/div[3]/div[2]/table/tbody/tr/td[2]/div/div[1]/table/tbody/tr[2]/td[2]/div/div[2]/div[1]/div[1]/div/div/table/tbody/tr[3]/td/div/table/tbody/tr[2]/td/input[1]
+
+
+
+Opcion consultar
+/html/body/form/div[5]/div[3]/div[2]/table/tbody/tr/td[2]/div/div[1]/table/tbody/tr[2]/td[2]/div/table/tbody/tr/td[1]/dl/dd/div/table/tbody/tr[1]/td/input
+
+
+Boton generar consulta
+/html/body/form/div[5]/div[3]/div[2]/table/tbody/tr/td[2]/div/div[1]/table/tbody/tr[2]/td[2]/div/table/tbody/tr/td[2]/div/span
+
+
+Boton exportar a csv (wait for object de 20 seg para consulta de 15 días en horario no laboral)
+
+/html/body/form/div[5]/div[3]/div[2]/div/div/div/table[1]/thead/tr/td/table/tbody/tr/td[2]/input[2]
+
+
+//buscar el ultimo archivo guardado con nombre RadGridExport - ish
+    -copiar archivo a carpeta específica para que el robot lo tome como el primer dataset a comparar
+    -en el dataset, filtrar por compañia
+    -dejar dataset listo para comparación con reporte de Qualitas

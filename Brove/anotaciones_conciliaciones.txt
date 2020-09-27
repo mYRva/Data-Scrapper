@@ -1,0 +1,50 @@
+-Pasos Allianz  
+
+detecttar en aseguradora las siguientes claves
+
+clave |  Producto    SubRamo
+----------------------------
+189   |  Inversión  | Patrimonial
+189   |  Inversión  | Élite
+191   |  Ahorro     | Opimaxx Plus /Educación
+192   |  Ahorro     | Opimaxx Plus /Educación
+194   |  Ahorro     | Opimaxx Plus /Educación
+196   |  Ahorro     | Opimaxx Plus /Educación
+197   |  Ahorro     | Opimaxx Plus /Educación
+
+
+
+/Allianz
+
+Checar formato de recibo en allianz,
+clave generica para optimax  PLUS GENERICA A PARTIR 20
+descargar ambos usuarios
+
+mandar a nowinsef_allianz cuando no se encuentre optimax
+
+todo en pesos
+
+
+Chubb
+todo en pesos
+agrupar por endoso (sumatoria)
+poliza-endoso-recibo (recibo,cons_recibo)
+-se agregara campo de endoso manual (como en qualitas)
+
+
+
+14/09/2020
+
+Chubb
+    Validar campo endoso, si vacio tomar observaciones.
+    tomar campo total_mxn para el dato de comision
+
+    polizas no encontradas
+        H540005526
+        48714
+
+Axa
+    Agregar fecha de cobro de winsef
+
+Allianz
+    mandar datos de tabla allianz
