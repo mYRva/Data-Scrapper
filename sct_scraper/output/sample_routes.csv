@@ -1,0 +1,41 @@
+﻿origin_state,origin_city,dest_state,dest_city,vehicle_type,total_distance_km,total_time_hrs,total_toll_mxn,segments_count
+Distrito Federal,Cd. De México (Zócalo),Jalisco,Guadalajara,Automóvil,541.350,05:20,"1,298.0",14
+Distrito Federal,Cd. De México (Zócalo),Jalisco,Guadalajara,Pick Ups,541.350,05:20,"1,298.0",14
+Distrito Federal,Cd. De México (Zócalo),Jalisco,Guadalajara,Camión 2 ejes,541.350,05:20,"2,522.0",14
+Distrito Federal,Cd. De México (Zócalo),Jalisco,Guadalajara,Camión 5 ejes,541.350,05:20,"3,716.0",14
+Distrito Federal,Cd. De México (Zócalo),Nuevo León,Monterrey,Automóvil,893.070,09:13,687.0,12
+Distrito Federal,Cd. De México (Zócalo),Nuevo León,Monterrey,Pick Ups,893.070,09:13,687.0,12
+Distrito Federal,Cd. De México (Zócalo),Nuevo León,Monterrey,Camión 2 ejes,893.070,09:13,"1,180.0",12
+Distrito Federal,Cd. De México (Zócalo),Nuevo León,Monterrey,Camión 5 ejes,893.070,09:13,"1,968.0",12
+Distrito Federal,Cd. De México (Zócalo),Puebla,Puebla,Automóvil,129.860,01:40,226.0,4
+Distrito Federal,Cd. De México (Zócalo),Puebla,Puebla,Pick Ups,129.860,01:40,226.0,4
+Distrito Federal,Cd. De México (Zócalo),Puebla,Puebla,Camión 2 ejes,129.860,01:40,464.0,4
+Distrito Federal,Cd. De México (Zócalo),Puebla,Puebla,Camión 5 ejes,129.860,01:40,949.0,4
+Jalisco,Guadalajara,Nuevo León,Monterrey,Automóvil,845.480,08:33,997.0,12
+Jalisco,Guadalajara,Nuevo León,Monterrey,Pick Ups,845.480,08:33,997.0,12
+Jalisco,Guadalajara,Nuevo León,Monterrey,Camión 2 ejes,845.480,08:33,"1,714.0",12
+Jalisco,Guadalajara,Nuevo León,Monterrey,Camión 5 ejes,845.480,08:33,"2,665.0",12
+Nuevo León,Monterrey,Coahuila,Saltillo,Automóvil,73.000,01:04,52.0,3
+Nuevo León,Monterrey,Coahuila,Saltillo,Pick Ups,73.000,01:04,52.0,3
+Nuevo León,Monterrey,Coahuila,Saltillo,Camión 2 ejes,73.000,01:04,64.0,3
+Nuevo León,Monterrey,Coahuila,Saltillo,Camión 5 ejes,73.000,01:04,150.0,3
+Distrito Federal,Cd. De México (Zócalo),Querétaro,Querétaro,Automóvil,212.500,02:18,338.0,6
+Distrito Federal,Cd. De México (Zócalo),Querétaro,Querétaro,Pick Ups,212.500,02:18,338.0,6
+Distrito Federal,Cd. De México (Zócalo),Querétaro,Querétaro,Camión 2 ejes,212.500,02:18,619.0,6
+Distrito Federal,Cd. De México (Zócalo),Querétaro,Querétaro,Camión 5 ejes,212.500,02:18,"1,117.0",6
+México,Toluca,Distrito Federal,Cd. De México (Zócalo),Automóvil,70.900,01:06,116.0,3
+México,Toluca,Distrito Federal,Cd. De México (Zócalo),Pick Ups,70.900,01:06,116.0,3
+México,Toluca,Distrito Federal,Cd. De México (Zócalo),Camión 2 ejes,70.900,01:06,244.0,3
+México,Toluca,Distrito Federal,Cd. De México (Zócalo),Camión 5 ejes,70.900,01:06,367.0,3
+Puebla,Puebla,Oaxaca,Oaxaca,Automóvil,344.020,03:18,407.0,8
+Puebla,Puebla,Oaxaca,Oaxaca,Pick Ups,344.020,03:18,407.0,8
+Puebla,Puebla,Oaxaca,Oaxaca,Camión 2 ejes,344.020,03:18,884.0,8
+Puebla,Puebla,Oaxaca,Oaxaca,Camión 5 ejes,344.020,03:18,"1,212.0",8
+Sonora,Aeropuerto Hermosillo,Chihuahua,Chihuahua,Automóvil,888.780,09:59,355.0,9
+Sonora,Aeropuerto Hermosillo,Chihuahua,Chihuahua,Pick Ups,888.780,09:59,355.0,9
+Sonora,Aeropuerto Hermosillo,Chihuahua,Chihuahua,Camión 2 ejes,888.780,09:59,578.0,9
+Sonora,Aeropuerto Hermosillo,Chihuahua,Chihuahua,Camión 5 ejes,888.780,09:59,"1,036.0",9
+Yucatán,"Dzununcán, Mérida",Campeche,Campeche,Automóvil,165.060,02:09,0.0,1
+Yucatán,"Dzununcán, Mérida",Campeche,Campeche,Pick Ups,165.060,02:09,0.0,1
+Yucatán,"Dzununcán, Mérida",Campeche,Campeche,Camión 2 ejes,165.060,02:09,0.0,1
+Yucatán,"Dzununcán, Mérida",Campeche,Campeche,Camión 5 ejes,165.060,02:09,0.0,1

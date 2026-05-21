@@ -1,0 +1,3114 @@
+[
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Jalisco",
+    "dest_city": "Guadalajara",
+    "vehicle_type": "Automóvil",
+    "total_distance_km": "541.350",
+    "total_time_hrs": "05:20",
+    "total_toll_mxn": "1,298.0",
+    "segments_count": 14,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Entronque Los Reyes",
+        "state": "DF,Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "27.400",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Los Reyes - Ent. Zumpango)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "18.930",
+        "time_hrs": "00:10",
+        "toll_booth": "Tultepec",
+        "toll_mxn": "59.0"
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Zumpango - Ent. Jorobas)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "15.170",
+        "time_hrs": "00:08",
+        "toll_booth": "Jorobas (CM)",
+        "toll_mxn": "92.0"
+      },
+      {
+        "segment": "Entronque Jorobas - Entronque Jilotepec",
+        "state": "Mex",
+        "highway": "Mex 057D",
+        "distance_km": "33.000",
+        "time_hrs": "00:18",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Lib. N. Cd. México (Ent. Jilotepec - Ent. Atlacomulco)",
+        "state": "Mex",
+        "highway": "Mex M40D",
+        "distance_km": "47.480",
+        "time_hrs": "00:26",
+        "toll_booth": "Atlacomulco/Querétaro",
+        "toll_mxn": "133.0"
+      },
+      {
+        "segment": "Ent. Atlacomulco - Ent. Temascalcingo",
+        "state": "Mex",
+        "highway": "Mex 126D",
+        "distance_km": "15.000",
+        "time_hrs": "00:08",
+        "toll_booth": "San Juanico",
+        "toll_mxn": "69.0"
+      },
+      {
+        "segment": "Entronque Temascalcingo- Entronque Tlalpujahua",
+        "state": "Mich",
+        "highway": "Mex 126D",
+        "distance_km": "16.000",
+        "time_hrs": "00:08",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Tlalpujahua - Entronque Maravatío",
+        "state": "Mich",
+        "highway": "Mex 126D",
+        "distance_km": "31.000",
+        "time_hrs": "00:16",
+        "toll_booth": "Contepec",
+        "toll_mxn": "69.0"
+      },
+      {
+        "segment": "Entronque Maravatío - Entronque Morelia",
+        "state": "Mich",
+        "highway": "Mex 015D",
+        "distance_km": "75.320",
+        "time_hrs": "00:41",
+        "toll_booth": "Zinapécuaro",
+        "toll_mxn": "200.0"
+      },
+      {
+        "segment": "Entronque Morelia - Entronque Churintzio",
+        "state": "Mich",
+        "highway": "Mex 015D",
+        "distance_km": "105.890",
+        "time_hrs": "00:57",
+        "toll_booth": "Panindícuaro",
+        "toll_mxn": "261.0"
+      },
+      {
+        "segment": "Entronque Churintzio - Entronque La Barca",
+        "state": "Jal",
+        "highway": "Mex 015D",
+        "distance_km": "55.820",
+        "time_hrs": "00:30",
+        "toll_booth": "Ecuandureo",
+        "toll_mxn": "140.0"
+      },
+      {
+        "segment": "Entronque La Barca - Entronque Guadalajara",
+        "state": "Jal",
+        "highway": "Mex 015D",
+        "distance_km": "72.476",
+        "time_hrs": "00:39",
+        "toll_booth": "Ocotlán",
+        "toll_mxn": "198.0"
+      },
+      {
+        "segment": "Entronque Guadalajara - Entronque Tonalá",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "13.860",
+        "time_hrs": "00:07",
+        "toll_booth": "La Joya",
+        "toll_mxn": "77.0"
+      },
+      {
+        "segment": "Entronque Tonalá - Guadalajara",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "14.000",
+        "time_hrs": "00:12",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Jalisco",
+    "dest_city": "Guadalajara",
+    "vehicle_type": "Pick Ups",
+    "total_distance_km": "541.350",
+    "total_time_hrs": "05:20",
+    "total_toll_mxn": "1,298.0",
+    "segments_count": 14,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Entronque Los Reyes",
+        "state": "DF,Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "27.400",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Los Reyes - Ent. Zumpango)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "18.930",
+        "time_hrs": "00:10",
+        "toll_booth": "Tultepec",
+        "toll_mxn": "59.0"
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Zumpango - Ent. Jorobas)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "15.170",
+        "time_hrs": "00:08",
+        "toll_booth": "Jorobas (CM)",
+        "toll_mxn": "92.0"
+      },
+      {
+        "segment": "Entronque Jorobas - Entronque Jilotepec",
+        "state": "Mex",
+        "highway": "Mex 057D",
+        "distance_km": "33.000",
+        "time_hrs": "00:18",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Lib. N. Cd. México (Ent. Jilotepec - Ent. Atlacomulco)",
+        "state": "Mex",
+        "highway": "Mex M40D",
+        "distance_km": "47.480",
+        "time_hrs": "00:26",
+        "toll_booth": "Atlacomulco/Querétaro",
+        "toll_mxn": "133.0"
+      },
+      {
+        "segment": "Ent. Atlacomulco - Ent. Temascalcingo",
+        "state": "Mex",
+        "highway": "Mex 126D",
+        "distance_km": "15.000",
+        "time_hrs": "00:08",
+        "toll_booth": "San Juanico",
+        "toll_mxn": "69.0"
+      },
+      {
+        "segment": "Entronque Temascalcingo- Entronque Tlalpujahua",
+        "state": "Mich",
+        "highway": "Mex 126D",
+        "distance_km": "16.000",
+        "time_hrs": "00:08",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Tlalpujahua - Entronque Maravatío",
+        "state": "Mich",
+        "highway": "Mex 126D",
+        "distance_km": "31.000",
+        "time_hrs": "00:16",
+        "toll_booth": "Contepec",
+        "toll_mxn": "69.0"
+      },
+      {
+        "segment": "Entronque Maravatío - Entronque Morelia",
+        "state": "Mich",
+        "highway": "Mex 015D",
+        "distance_km": "75.320",
+        "time_hrs": "00:41",
+        "toll_booth": "Zinapécuaro",
+        "toll_mxn": "200.0"
+      },
+      {
+        "segment": "Entronque Morelia - Entronque Churintzio",
+        "state": "Mich",
+        "highway": "Mex 015D",
+        "distance_km": "105.890",
+        "time_hrs": "00:57",
+        "toll_booth": "Panindícuaro",
+        "toll_mxn": "261.0"
+      },
+      {
+        "segment": "Entronque Churintzio - Entronque La Barca",
+        "state": "Jal",
+        "highway": "Mex 015D",
+        "distance_km": "55.820",
+        "time_hrs": "00:30",
+        "toll_booth": "Ecuandureo",
+        "toll_mxn": "140.0"
+      },
+      {
+        "segment": "Entronque La Barca - Entronque Guadalajara",
+        "state": "Jal",
+        "highway": "Mex 015D",
+        "distance_km": "72.476",
+        "time_hrs": "00:39",
+        "toll_booth": "Ocotlán",
+        "toll_mxn": "198.0"
+      },
+      {
+        "segment": "Entronque Guadalajara - Entronque Tonalá",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "13.860",
+        "time_hrs": "00:07",
+        "toll_booth": "La Joya",
+        "toll_mxn": "77.0"
+      },
+      {
+        "segment": "Entronque Tonalá - Guadalajara",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "14.000",
+        "time_hrs": "00:12",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Jalisco",
+    "dest_city": "Guadalajara",
+    "vehicle_type": "Camión 2 ejes",
+    "total_distance_km": "541.350",
+    "total_time_hrs": "05:20",
+    "total_toll_mxn": "2,522.0",
+    "segments_count": 14,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Entronque Los Reyes",
+        "state": "DF,Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "27.400",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Los Reyes - Ent. Zumpango)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "18.930",
+        "time_hrs": "00:10",
+        "toll_booth": "Tultepec",
+        "toll_mxn": "88.0"
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Zumpango - Ent. Jorobas)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "15.170",
+        "time_hrs": "00:08",
+        "toll_booth": "Jorobas (CM)",
+        "toll_mxn": "151.0"
+      },
+      {
+        "segment": "Entronque Jorobas - Entronque Jilotepec",
+        "state": "Mex",
+        "highway": "Mex 057D",
+        "distance_km": "33.000",
+        "time_hrs": "00:18",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Lib. N. Cd. México (Ent. Jilotepec - Ent. Atlacomulco)",
+        "state": "Mex",
+        "highway": "Mex M40D",
+        "distance_km": "47.480",
+        "time_hrs": "00:26",
+        "toll_booth": "Atlacomulco/Querétaro",
+        "toll_mxn": "242.0"
+      },
+      {
+        "segment": "Ent. Atlacomulco - Ent. Temascalcingo",
+        "state": "Mex",
+        "highway": "Mex 126D",
+        "distance_km": "15.000",
+        "time_hrs": "00:08",
+        "toll_booth": "San Juanico",
+        "toll_mxn": "148.0"
+      },
+      {
+        "segment": "Entronque Temascalcingo- Entronque Tlalpujahua",
+        "state": "Mich",
+        "highway": "Mex 126D",
+        "distance_km": "16.000",
+        "time_hrs": "00:08",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Tlalpujahua - Entronque Maravatío",
+        "state": "Mich",
+        "highway": "Mex 126D",
+        "distance_km": "31.000",
+        "time_hrs": "00:16",
+        "toll_booth": "Contepec",
+        "toll_mxn": "148.0"
+      },
+      {
+        "segment": "Entronque Maravatío - Entronque Morelia",
+        "state": "Mich",
+        "highway": "Mex 015D",
+        "distance_km": "75.320",
+        "time_hrs": "00:41",
+        "toll_booth": "Zinapécuaro",
+        "toll_mxn": "409.0"
+      },
+      {
+        "segment": "Entronque Morelia - Entronque Churintzio",
+        "state": "Mich",
+        "highway": "Mex 015D",
+        "distance_km": "105.890",
+        "time_hrs": "00:57",
+        "toll_booth": "Panindícuaro",
+        "toll_mxn": "539.0"
+      },
+      {
+        "segment": "Entronque Churintzio - Entronque La Barca",
+        "state": "Jal",
+        "highway": "Mex 015D",
+        "distance_km": "55.820",
+        "time_hrs": "00:30",
+        "toll_booth": "Ecuandureo",
+        "toll_mxn": "286.0"
+      },
+      {
+        "segment": "Entronque La Barca - Entronque Guadalajara",
+        "state": "Jal",
+        "highway": "Mex 015D",
+        "distance_km": "72.476",
+        "time_hrs": "00:39",
+        "toll_booth": "Ocotlán",
+        "toll_mxn": "389.0"
+      },
+      {
+        "segment": "Entronque Guadalajara - Entronque Tonalá",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "13.860",
+        "time_hrs": "00:07",
+        "toll_booth": "La Joya",
+        "toll_mxn": "122.0"
+      },
+      {
+        "segment": "Entronque Tonalá - Guadalajara",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "14.000",
+        "time_hrs": "00:12",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Jalisco",
+    "dest_city": "Guadalajara",
+    "vehicle_type": "Camión 5 ejes",
+    "total_distance_km": "541.350",
+    "total_time_hrs": "05:20",
+    "total_toll_mxn": "3,716.0",
+    "segments_count": 14,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Entronque Los Reyes",
+        "state": "DF,Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "27.400",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Los Reyes - Ent. Zumpango)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "18.930",
+        "time_hrs": "00:10",
+        "toll_booth": "Tultepec",
+        "toll_mxn": "112.0"
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Zumpango - Ent. Jorobas)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "15.170",
+        "time_hrs": "00:08",
+        "toll_booth": "Jorobas (CM)",
+        "toll_mxn": "245.0"
+      },
+      {
+        "segment": "Entronque Jorobas - Entronque Jilotepec",
+        "state": "Mex",
+        "highway": "Mex 057D",
+        "distance_km": "33.000",
+        "time_hrs": "00:18",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Lib. N. Cd. México (Ent. Jilotepec - Ent. Atlacomulco)",
+        "state": "Mex",
+        "highway": "Mex M40D",
+        "distance_km": "47.480",
+        "time_hrs": "00:26",
+        "toll_booth": "Atlacomulco/Querétaro",
+        "toll_mxn": "382.0"
+      },
+      {
+        "segment": "Ent. Atlacomulco - Ent. Temascalcingo",
+        "state": "Mex",
+        "highway": "Mex 126D",
+        "distance_km": "15.000",
+        "time_hrs": "00:08",
+        "toll_booth": "San Juanico",
+        "toll_mxn": "227.0"
+      },
+      {
+        "segment": "Entronque Temascalcingo- Entronque Tlalpujahua",
+        "state": "Mich",
+        "highway": "Mex 126D",
+        "distance_km": "16.000",
+        "time_hrs": "00:08",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Tlalpujahua - Entronque Maravatío",
+        "state": "Mich",
+        "highway": "Mex 126D",
+        "distance_km": "31.000",
+        "time_hrs": "00:16",
+        "toll_booth": "Contepec",
+        "toll_mxn": "227.0"
+      },
+      {
+        "segment": "Entronque Maravatío - Entronque Morelia",
+        "state": "Mich",
+        "highway": "Mex 015D",
+        "distance_km": "75.320",
+        "time_hrs": "00:41",
+        "toll_booth": "Zinapécuaro",
+        "toll_mxn": "554.0"
+      },
+      {
+        "segment": "Entronque Morelia - Entronque Churintzio",
+        "state": "Mich",
+        "highway": "Mex 015D",
+        "distance_km": "105.890",
+        "time_hrs": "00:57",
+        "toll_booth": "Panindícuaro",
+        "toll_mxn": "776.0"
+      },
+      {
+        "segment": "Entronque Churintzio - Entronque La Barca",
+        "state": "Jal",
+        "highway": "Mex 015D",
+        "distance_km": "55.820",
+        "time_hrs": "00:30",
+        "toll_booth": "Ecuandureo",
+        "toll_mxn": "409.0"
+      },
+      {
+        "segment": "Entronque La Barca - Entronque Guadalajara",
+        "state": "Jal",
+        "highway": "Mex 015D",
+        "distance_km": "72.476",
+        "time_hrs": "00:39",
+        "toll_booth": "Ocotlán",
+        "toll_mxn": "533.0"
+      },
+      {
+        "segment": "Entronque Guadalajara - Entronque Tonalá",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "13.860",
+        "time_hrs": "00:07",
+        "toll_booth": "La Joya",
+        "toll_mxn": "251.0"
+      },
+      {
+        "segment": "Entronque Tonalá - Guadalajara",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "14.000",
+        "time_hrs": "00:12",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Nuevo León",
+    "dest_city": "Monterrey",
+    "vehicle_type": "Automóvil",
+    "total_distance_km": "893.070",
+    "total_time_hrs": "09:13",
+    "total_toll_mxn": "687.0",
+    "segments_count": 12,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Entronque Los Reyes",
+        "state": "DF,Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "27.400",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Los Reyes - Ent. Zumpango)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "18.930",
+        "time_hrs": "00:10",
+        "toll_booth": "Tultepec",
+        "toll_mxn": "59.0"
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Zumpango - Ent. Jorobas)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "15.170",
+        "time_hrs": "00:08",
+        "toll_booth": "Jorobas (CM)",
+        "toll_mxn": "92.0"
+      },
+      {
+        "segment": "Entronque Jorobas - Tepeji del Río",
+        "state": "Hgo",
+        "highway": "Mex 057D",
+        "distance_km": "12.000",
+        "time_hrs": "00:06",
+        "toll_booth": "Jorobas",
+        "toll_mxn": "74.0"
+      },
+      {
+        "segment": "Tepeji del Río - Palmillas",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "81.000",
+        "time_hrs": "00:44",
+        "toll_booth": "Palmillas",
+        "toll_mxn": "113.0"
+      },
+      {
+        "segment": "Palmillas - Entronque El Colorado",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "40.000",
+        "time_hrs": "00:21",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Libramiento de Querétaro (Ent. El Colorado - Ent. Buena Vista)",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "37.500",
+        "time_hrs": "00:20",
+        "toll_booth": "Chichimequillas",
+        "toll_mxn": "65.0"
+      },
+      {
+        "segment": "Entronque Buenavista - Entronque La Pila",
+        "state": "Gto,SLP",
+        "highway": "Mex 057",
+        "distance_km": "154.000",
+        "time_hrs": "01:32",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque San Elías - Entronque Matehuala",
+        "state": "SLP",
+        "highway": "Mex 057",
+        "distance_km": "158.103",
+        "time_hrs": "01:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Matehuala II - Puerto México",
+        "state": "NL",
+        "highway": "Mex 057",
+        "distance_km": "197.000",
+        "time_hrs": "01:58",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Puerto México - Entronque La Carbonera",
+        "state": "Coah",
+        "highway": "Mex 057D",
+        "distance_km": "32.000",
+        "time_hrs": "00:17",
+        "toll_booth": "Pto. México/Huachichil",
+        "toll_mxn": "82.0"
+      },
+      {
+        "segment": "Ojo Caliente - Monterrey",
+        "state": "NL",
+        "highway": "Mex 040",
+        "distance_km": "51.000",
+        "time_hrs": "00:46",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Nuevo León",
+    "dest_city": "Monterrey",
+    "vehicle_type": "Pick Ups",
+    "total_distance_km": "893.070",
+    "total_time_hrs": "09:13",
+    "total_toll_mxn": "687.0",
+    "segments_count": 12,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Entronque Los Reyes",
+        "state": "DF,Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "27.400",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Los Reyes - Ent. Zumpango)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "18.930",
+        "time_hrs": "00:10",
+        "toll_booth": "Tultepec",
+        "toll_mxn": "59.0"
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Zumpango - Ent. Jorobas)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "15.170",
+        "time_hrs": "00:08",
+        "toll_booth": "Jorobas (CM)",
+        "toll_mxn": "92.0"
+      },
+      {
+        "segment": "Entronque Jorobas - Tepeji del Río",
+        "state": "Hgo",
+        "highway": "Mex 057D",
+        "distance_km": "12.000",
+        "time_hrs": "00:06",
+        "toll_booth": "Jorobas",
+        "toll_mxn": "74.0"
+      },
+      {
+        "segment": "Tepeji del Río - Palmillas",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "81.000",
+        "time_hrs": "00:44",
+        "toll_booth": "Palmillas",
+        "toll_mxn": "113.0"
+      },
+      {
+        "segment": "Palmillas - Entronque El Colorado",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "40.000",
+        "time_hrs": "00:21",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Libramiento de Querétaro (Ent. El Colorado - Ent. Buena Vista)",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "37.500",
+        "time_hrs": "00:20",
+        "toll_booth": "Chichimequillas",
+        "toll_mxn": "65.0"
+      },
+      {
+        "segment": "Entronque Buenavista - Entronque La Pila",
+        "state": "Gto,SLP",
+        "highway": "Mex 057",
+        "distance_km": "154.000",
+        "time_hrs": "01:32",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque San Elías - Entronque Matehuala",
+        "state": "SLP",
+        "highway": "Mex 057",
+        "distance_km": "158.103",
+        "time_hrs": "01:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Matehuala II - Puerto México",
+        "state": "NL",
+        "highway": "Mex 057",
+        "distance_km": "197.000",
+        "time_hrs": "01:58",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Puerto México - Entronque La Carbonera",
+        "state": "Coah",
+        "highway": "Mex 057D",
+        "distance_km": "32.000",
+        "time_hrs": "00:17",
+        "toll_booth": "Pto. México/Huachichil",
+        "toll_mxn": "82.0"
+      },
+      {
+        "segment": "Ojo Caliente - Monterrey",
+        "state": "NL",
+        "highway": "Mex 040",
+        "distance_km": "51.000",
+        "time_hrs": "00:46",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Nuevo León",
+    "dest_city": "Monterrey",
+    "vehicle_type": "Camión 2 ejes",
+    "total_distance_km": "893.070",
+    "total_time_hrs": "09:13",
+    "total_toll_mxn": "1,180.0",
+    "segments_count": 12,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Entronque Los Reyes",
+        "state": "DF,Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "27.400",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Los Reyes - Ent. Zumpango)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "18.930",
+        "time_hrs": "00:10",
+        "toll_booth": "Tultepec",
+        "toll_mxn": "88.0"
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Zumpango - Ent. Jorobas)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "15.170",
+        "time_hrs": "00:08",
+        "toll_booth": "Jorobas (CM)",
+        "toll_mxn": "151.0"
+      },
+      {
+        "segment": "Entronque Jorobas - Tepeji del Río",
+        "state": "Hgo",
+        "highway": "Mex 057D",
+        "distance_km": "12.000",
+        "time_hrs": "00:06",
+        "toll_booth": "Jorobas",
+        "toll_mxn": "140.0"
+      },
+      {
+        "segment": "Tepeji del Río - Palmillas",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "81.000",
+        "time_hrs": "00:44",
+        "toll_booth": "Palmillas",
+        "toll_mxn": "240.0"
+      },
+      {
+        "segment": "Palmillas - Entronque El Colorado",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "40.000",
+        "time_hrs": "00:21",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Libramiento de Querétaro (Ent. El Colorado - Ent. Buena Vista)",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "37.500",
+        "time_hrs": "00:20",
+        "toll_booth": "Chichimequillas",
+        "toll_mxn": "112.0"
+      },
+      {
+        "segment": "Entronque Buenavista - Entronque La Pila",
+        "state": "Gto,SLP",
+        "highway": "Mex 057",
+        "distance_km": "154.000",
+        "time_hrs": "01:32",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque San Elías - Entronque Matehuala",
+        "state": "SLP",
+        "highway": "Mex 057",
+        "distance_km": "158.103",
+        "time_hrs": "01:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Matehuala II - Puerto México",
+        "state": "NL",
+        "highway": "Mex 057",
+        "distance_km": "197.000",
+        "time_hrs": "01:58",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Puerto México - Entronque La Carbonera",
+        "state": "Coah",
+        "highway": "Mex 057D",
+        "distance_km": "32.000",
+        "time_hrs": "00:17",
+        "toll_booth": "Pto. México/Huachichil",
+        "toll_mxn": "196.0"
+      },
+      {
+        "segment": "Ojo Caliente - Monterrey",
+        "state": "NL",
+        "highway": "Mex 040",
+        "distance_km": "51.000",
+        "time_hrs": "00:46",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Nuevo León",
+    "dest_city": "Monterrey",
+    "vehicle_type": "Camión 5 ejes",
+    "total_distance_km": "893.070",
+    "total_time_hrs": "09:13",
+    "total_toll_mxn": "1,968.0",
+    "segments_count": 12,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Entronque Los Reyes",
+        "state": "DF,Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "27.400",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Los Reyes - Ent. Zumpango)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "18.930",
+        "time_hrs": "00:10",
+        "toll_booth": "Tultepec",
+        "toll_mxn": "112.0"
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Zumpango - Ent. Jorobas)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "15.170",
+        "time_hrs": "00:08",
+        "toll_booth": "Jorobas (CM)",
+        "toll_mxn": "245.0"
+      },
+      {
+        "segment": "Entronque Jorobas - Tepeji del Río",
+        "state": "Hgo",
+        "highway": "Mex 057D",
+        "distance_km": "12.000",
+        "time_hrs": "00:06",
+        "toll_booth": "Jorobas",
+        "toll_mxn": "278.0"
+      },
+      {
+        "segment": "Tepeji del Río - Palmillas",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "81.000",
+        "time_hrs": "00:44",
+        "toll_booth": "Palmillas",
+        "toll_mxn": "482.0"
+      },
+      {
+        "segment": "Palmillas - Entronque El Colorado",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "40.000",
+        "time_hrs": "00:21",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Libramiento de Querétaro (Ent. El Colorado - Ent. Buena Vista)",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "37.500",
+        "time_hrs": "00:20",
+        "toll_booth": "Chichimequillas",
+        "toll_mxn": "121.0"
+      },
+      {
+        "segment": "Entronque Buenavista - Entronque La Pila",
+        "state": "Gto,SLP",
+        "highway": "Mex 057",
+        "distance_km": "154.000",
+        "time_hrs": "01:32",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque San Elías - Entronque Matehuala",
+        "state": "SLP",
+        "highway": "Mex 057",
+        "distance_km": "158.103",
+        "time_hrs": "01:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Matehuala II - Puerto México",
+        "state": "NL",
+        "highway": "Mex 057",
+        "distance_km": "197.000",
+        "time_hrs": "01:58",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Puerto México - Entronque La Carbonera",
+        "state": "Coah",
+        "highway": "Mex 057D",
+        "distance_km": "32.000",
+        "time_hrs": "00:17",
+        "toll_booth": "Pto. México/Huachichil",
+        "toll_mxn": "306.0"
+      },
+      {
+        "segment": "Ojo Caliente - Monterrey",
+        "state": "NL",
+        "highway": "Mex 040",
+        "distance_km": "51.000",
+        "time_hrs": "00:46",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Puebla",
+    "dest_city": "Puebla",
+    "vehicle_type": "Automóvil",
+    "total_distance_km": "129.860",
+    "total_time_hrs": "01:40",
+    "total_toll_mxn": "226.0",
+    "segments_count": 4,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Santa Martha Acatitla",
+        "state": "DF",
+        "highway": "Zona Urbana",
+        "distance_km": "18.100",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Santa Martha Acatitla - Entronque San Martín Texmelucan",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "74.755",
+        "time_hrs": "00:40",
+        "toll_booth": "San Marcos",
+        "toll_mxn": "173.0"
+      },
+      {
+        "segment": "Entronque San Martín Texmelucan - Entronque Puebla",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "32.000",
+        "time_hrs": "00:17",
+        "toll_booth": "San Martín",
+        "toll_mxn": "53.0"
+      },
+      {
+        "segment": "Entronque Puebla - Puebla",
+        "state": "Pue",
+        "highway": "Zona Urbana",
+        "distance_km": "5.000",
+        "time_hrs": "00:07",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Puebla",
+    "dest_city": "Puebla",
+    "vehicle_type": "Pick Ups",
+    "total_distance_km": "129.860",
+    "total_time_hrs": "01:40",
+    "total_toll_mxn": "226.0",
+    "segments_count": 4,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Santa Martha Acatitla",
+        "state": "DF",
+        "highway": "Zona Urbana",
+        "distance_km": "18.100",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Santa Martha Acatitla - Entronque San Martín Texmelucan",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "74.755",
+        "time_hrs": "00:40",
+        "toll_booth": "San Marcos",
+        "toll_mxn": "173.0"
+      },
+      {
+        "segment": "Entronque San Martín Texmelucan - Entronque Puebla",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "32.000",
+        "time_hrs": "00:17",
+        "toll_booth": "San Martín",
+        "toll_mxn": "53.0"
+      },
+      {
+        "segment": "Entronque Puebla - Puebla",
+        "state": "Pue",
+        "highway": "Zona Urbana",
+        "distance_km": "5.000",
+        "time_hrs": "00:07",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Puebla",
+    "dest_city": "Puebla",
+    "vehicle_type": "Camión 2 ejes",
+    "total_distance_km": "129.860",
+    "total_time_hrs": "01:40",
+    "total_toll_mxn": "464.0",
+    "segments_count": 4,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Santa Martha Acatitla",
+        "state": "DF",
+        "highway": "Zona Urbana",
+        "distance_km": "18.100",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Santa Martha Acatitla - Entronque San Martín Texmelucan",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "74.755",
+        "time_hrs": "00:40",
+        "toll_booth": "San Marcos",
+        "toll_mxn": "335.0"
+      },
+      {
+        "segment": "Entronque San Martín Texmelucan - Entronque Puebla",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "32.000",
+        "time_hrs": "00:17",
+        "toll_booth": "San Martín",
+        "toll_mxn": "129.0"
+      },
+      {
+        "segment": "Entronque Puebla - Puebla",
+        "state": "Pue",
+        "highway": "Zona Urbana",
+        "distance_km": "5.000",
+        "time_hrs": "00:07",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Puebla",
+    "dest_city": "Puebla",
+    "vehicle_type": "Camión 5 ejes",
+    "total_distance_km": "129.860",
+    "total_time_hrs": "01:40",
+    "total_toll_mxn": "949.0",
+    "segments_count": 4,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Santa Martha Acatitla",
+        "state": "DF",
+        "highway": "Zona Urbana",
+        "distance_km": "18.100",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Santa Martha Acatitla - Entronque San Martín Texmelucan",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "74.755",
+        "time_hrs": "00:40",
+        "toll_booth": "San Marcos",
+        "toll_mxn": "688.0"
+      },
+      {
+        "segment": "Entronque San Martín Texmelucan - Entronque Puebla",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "32.000",
+        "time_hrs": "00:17",
+        "toll_booth": "San Martín",
+        "toll_mxn": "261.0"
+      },
+      {
+        "segment": "Entronque Puebla - Puebla",
+        "state": "Pue",
+        "highway": "Zona Urbana",
+        "distance_km": "5.000",
+        "time_hrs": "00:07",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Jalisco",
+    "origin_city": "Guadalajara",
+    "dest_state": "Nuevo León",
+    "dest_city": "Monterrey",
+    "vehicle_type": "Automóvil",
+    "total_distance_km": "845.480",
+    "total_time_hrs": "08:33",
+    "total_toll_mxn": "997.0",
+    "segments_count": 12,
+    "segments": [
+      {
+        "segment": "Guadalajara - Entronque Tonalá",
+        "state": "Jal",
+        "highway": "Zona Urbana",
+        "distance_km": "14.000",
+        "time_hrs": "00:12",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Tonalá - Entronque Guadalajara",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "13.860",
+        "time_hrs": "00:07",
+        "toll_booth": "La Joya",
+        "toll_mxn": "77.0"
+      },
+      {
+        "segment": "Entronque Guadalajara - Entronque Lagos de Moreno",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "3.560",
+        "time_hrs": "00:02",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Lagos de Moreno - Entronque Arandas",
+        "state": "Jal",
+        "highway": "Mex 080D",
+        "distance_km": "53.280",
+        "time_hrs": "00:29",
+        "toll_booth": "Tepatitlán",
+        "toll_mxn": "179.0"
+      },
+      {
+        "segment": "Entronque Arandas - El Desperdicio",
+        "state": "Jal",
+        "highway": "Mex 080D",
+        "distance_km": "65.220",
+        "time_hrs": "00:35",
+        "toll_booth": "Jalostotitlán",
+        "toll_mxn": "210.0"
+      },
+      {
+        "segment": "El Desperdicio - Entronque El Jaralito",
+        "state": "Jal",
+        "highway": "Mex 080",
+        "distance_km": "45.641",
+        "time_hrs": "00:30",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque El Jaralito - Villa de Arriaga",
+        "state": "SLP",
+        "highway": "Mex 080D",
+        "distance_km": "66.851",
+        "time_hrs": "00:40",
+        "toll_booth": "Cuarenta",
+        "toll_mxn": "146.0"
+      },
+      {
+        "segment": "Villa de Arriaga - Entronque La Pila",
+        "state": "SLP",
+        "highway": "Mex 070D",
+        "distance_km": "76.000",
+        "time_hrs": "00:41",
+        "toll_booth": "El Saucillo",
+        "toll_mxn": "101.0"
+      },
+      {
+        "segment": "Entronque San Elías - Entronque Matehuala",
+        "state": "SLP",
+        "highway": "Mex 057",
+        "distance_km": "158.103",
+        "time_hrs": "01:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Matehuala II - Puerto México",
+        "state": "NL",
+        "highway": "Mex 057",
+        "distance_km": "197.000",
+        "time_hrs": "01:58",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Puerto México - Entronque La Carbonera",
+        "state": "Coah",
+        "highway": "Mex 057D",
+        "distance_km": "32.000",
+        "time_hrs": "00:17",
+        "toll_booth": "Pto. México/Huachichil",
+        "toll_mxn": "82.0"
+      },
+      {
+        "segment": "Ojo Caliente - Monterrey",
+        "state": "NL",
+        "highway": "Mex 040",
+        "distance_km": "51.000",
+        "time_hrs": "00:46",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Jalisco",
+    "origin_city": "Guadalajara",
+    "dest_state": "Nuevo León",
+    "dest_city": "Monterrey",
+    "vehicle_type": "Pick Ups",
+    "total_distance_km": "845.480",
+    "total_time_hrs": "08:33",
+    "total_toll_mxn": "997.0",
+    "segments_count": 12,
+    "segments": [
+      {
+        "segment": "Guadalajara - Entronque Tonalá",
+        "state": "Jal",
+        "highway": "Zona Urbana",
+        "distance_km": "14.000",
+        "time_hrs": "00:12",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Tonalá - Entronque Guadalajara",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "13.860",
+        "time_hrs": "00:07",
+        "toll_booth": "La Joya",
+        "toll_mxn": "77.0"
+      },
+      {
+        "segment": "Entronque Guadalajara - Entronque Lagos de Moreno",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "3.560",
+        "time_hrs": "00:02",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Lagos de Moreno - Entronque Arandas",
+        "state": "Jal",
+        "highway": "Mex 080D",
+        "distance_km": "53.280",
+        "time_hrs": "00:29",
+        "toll_booth": "Tepatitlán",
+        "toll_mxn": "179.0"
+      },
+      {
+        "segment": "Entronque Arandas - El Desperdicio",
+        "state": "Jal",
+        "highway": "Mex 080D",
+        "distance_km": "65.220",
+        "time_hrs": "00:35",
+        "toll_booth": "Jalostotitlán",
+        "toll_mxn": "210.0"
+      },
+      {
+        "segment": "El Desperdicio - Entronque El Jaralito",
+        "state": "Jal",
+        "highway": "Mex 080",
+        "distance_km": "45.641",
+        "time_hrs": "00:30",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque El Jaralito - Villa de Arriaga",
+        "state": "SLP",
+        "highway": "Mex 080D",
+        "distance_km": "66.851",
+        "time_hrs": "00:40",
+        "toll_booth": "Cuarenta",
+        "toll_mxn": "146.0"
+      },
+      {
+        "segment": "Villa de Arriaga - Entronque La Pila",
+        "state": "SLP",
+        "highway": "Mex 070D",
+        "distance_km": "76.000",
+        "time_hrs": "00:41",
+        "toll_booth": "El Saucillo",
+        "toll_mxn": "101.0"
+      },
+      {
+        "segment": "Entronque San Elías - Entronque Matehuala",
+        "state": "SLP",
+        "highway": "Mex 057",
+        "distance_km": "158.103",
+        "time_hrs": "01:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Matehuala II - Puerto México",
+        "state": "NL",
+        "highway": "Mex 057",
+        "distance_km": "197.000",
+        "time_hrs": "01:58",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Puerto México - Entronque La Carbonera",
+        "state": "Coah",
+        "highway": "Mex 057D",
+        "distance_km": "32.000",
+        "time_hrs": "00:17",
+        "toll_booth": "Pto. México/Huachichil",
+        "toll_mxn": "82.0"
+      },
+      {
+        "segment": "Ojo Caliente - Monterrey",
+        "state": "NL",
+        "highway": "Mex 040",
+        "distance_km": "51.000",
+        "time_hrs": "00:46",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Jalisco",
+    "origin_city": "Guadalajara",
+    "dest_state": "Nuevo León",
+    "dest_city": "Monterrey",
+    "vehicle_type": "Camión 2 ejes",
+    "total_distance_km": "845.480",
+    "total_time_hrs": "08:33",
+    "total_toll_mxn": "1,714.0",
+    "segments_count": 12,
+    "segments": [
+      {
+        "segment": "Guadalajara - Entronque Tonalá",
+        "state": "Jal",
+        "highway": "Zona Urbana",
+        "distance_km": "14.000",
+        "time_hrs": "00:12",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Tonalá - Entronque Guadalajara",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "13.860",
+        "time_hrs": "00:07",
+        "toll_booth": "La Joya",
+        "toll_mxn": "122.0"
+      },
+      {
+        "segment": "Entronque Guadalajara - Entronque Lagos de Moreno",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "3.560",
+        "time_hrs": "00:02",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Lagos de Moreno - Entronque Arandas",
+        "state": "Jal",
+        "highway": "Mex 080D",
+        "distance_km": "53.280",
+        "time_hrs": "00:29",
+        "toll_booth": "Tepatitlán",
+        "toll_mxn": "306.0"
+      },
+      {
+        "segment": "Entronque Arandas - El Desperdicio",
+        "state": "Jal",
+        "highway": "Mex 080D",
+        "distance_km": "65.220",
+        "time_hrs": "00:35",
+        "toll_booth": "Jalostotitlán",
+        "toll_mxn": "383.0"
+      },
+      {
+        "segment": "El Desperdicio - Entronque El Jaralito",
+        "state": "Jal",
+        "highway": "Mex 080",
+        "distance_km": "45.641",
+        "time_hrs": "00:30",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque El Jaralito - Villa de Arriaga",
+        "state": "SLP",
+        "highway": "Mex 080D",
+        "distance_km": "66.851",
+        "time_hrs": "00:40",
+        "toll_booth": "Cuarenta",
+        "toll_mxn": "299.0"
+      },
+      {
+        "segment": "Villa de Arriaga - Entronque La Pila",
+        "state": "SLP",
+        "highway": "Mex 070D",
+        "distance_km": "76.000",
+        "time_hrs": "00:41",
+        "toll_booth": "El Saucillo",
+        "toll_mxn": "155.0"
+      },
+      {
+        "segment": "Entronque San Elías - Entronque Matehuala",
+        "state": "SLP",
+        "highway": "Mex 057",
+        "distance_km": "158.103",
+        "time_hrs": "01:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Matehuala II - Puerto México",
+        "state": "NL",
+        "highway": "Mex 057",
+        "distance_km": "197.000",
+        "time_hrs": "01:58",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Puerto México - Entronque La Carbonera",
+        "state": "Coah",
+        "highway": "Mex 057D",
+        "distance_km": "32.000",
+        "time_hrs": "00:17",
+        "toll_booth": "Pto. México/Huachichil",
+        "toll_mxn": "196.0"
+      },
+      {
+        "segment": "Ojo Caliente - Monterrey",
+        "state": "NL",
+        "highway": "Mex 040",
+        "distance_km": "51.000",
+        "time_hrs": "00:46",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Jalisco",
+    "origin_city": "Guadalajara",
+    "dest_state": "Nuevo León",
+    "dest_city": "Monterrey",
+    "vehicle_type": "Camión 5 ejes",
+    "total_distance_km": "845.480",
+    "total_time_hrs": "08:33",
+    "total_toll_mxn": "2,665.0",
+    "segments_count": 12,
+    "segments": [
+      {
+        "segment": "Guadalajara - Entronque Tonalá",
+        "state": "Jal",
+        "highway": "Zona Urbana",
+        "distance_km": "14.000",
+        "time_hrs": "00:12",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Tonalá - Entronque Guadalajara",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "13.860",
+        "time_hrs": "00:07",
+        "toll_booth": "La Joya",
+        "toll_mxn": "251.0"
+      },
+      {
+        "segment": "Entronque Guadalajara - Entronque Lagos de Moreno",
+        "state": "Jal",
+        "highway": "Mex 090D",
+        "distance_km": "3.560",
+        "time_hrs": "00:02",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Lagos de Moreno - Entronque Arandas",
+        "state": "Jal",
+        "highway": "Mex 080D",
+        "distance_km": "53.280",
+        "time_hrs": "00:29",
+        "toll_booth": "Tepatitlán",
+        "toll_mxn": "491.0"
+      },
+      {
+        "segment": "Entronque Arandas - El Desperdicio",
+        "state": "Jal",
+        "highway": "Mex 080D",
+        "distance_km": "65.220",
+        "time_hrs": "00:35",
+        "toll_booth": "Jalostotitlán",
+        "toll_mxn": "584.0"
+      },
+      {
+        "segment": "El Desperdicio - Entronque El Jaralito",
+        "state": "Jal",
+        "highway": "Mex 080",
+        "distance_km": "45.641",
+        "time_hrs": "00:30",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque El Jaralito - Villa de Arriaga",
+        "state": "SLP",
+        "highway": "Mex 080D",
+        "distance_km": "66.851",
+        "time_hrs": "00:40",
+        "toll_booth": "Cuarenta",
+        "toll_mxn": "442.0"
+      },
+      {
+        "segment": "Villa de Arriaga - Entronque La Pila",
+        "state": "SLP",
+        "highway": "Mex 070D",
+        "distance_km": "76.000",
+        "time_hrs": "00:41",
+        "toll_booth": "El Saucillo",
+        "toll_mxn": "167.0"
+      },
+      {
+        "segment": "Entronque San Elías - Entronque Matehuala",
+        "state": "SLP",
+        "highway": "Mex 057",
+        "distance_km": "158.103",
+        "time_hrs": "01:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Matehuala II - Puerto México",
+        "state": "NL",
+        "highway": "Mex 057",
+        "distance_km": "197.000",
+        "time_hrs": "01:58",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Puerto México - Entronque La Carbonera",
+        "state": "Coah",
+        "highway": "Mex 057D",
+        "distance_km": "32.000",
+        "time_hrs": "00:17",
+        "toll_booth": "Pto. México/Huachichil",
+        "toll_mxn": "306.0"
+      },
+      {
+        "segment": "Ojo Caliente - Monterrey",
+        "state": "NL",
+        "highway": "Mex 040",
+        "distance_km": "51.000",
+        "time_hrs": "00:46",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Nuevo León",
+    "origin_city": "Monterrey",
+    "dest_state": "Coahuila",
+    "dest_city": "Saltillo",
+    "vehicle_type": "Automóvil",
+    "total_distance_km": "73.000",
+    "total_time_hrs": "01:04",
+    "total_toll_mxn": "52.0",
+    "segments_count": 3,
+    "segments": [
+      {
+        "segment": "Monterrey (Centro) - Entronque Lincoln",
+        "state": "NL",
+        "highway": "Zona Urbana",
+        "distance_km": "10.000",
+        "time_hrs": "00:15",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Lib. Monterrey (Ent. Lincoln - Ent. Santa Catarina)",
+        "state": "NL",
+        "highway": "N. L. s/n",
+        "distance_km": "11.000",
+        "time_hrs": "00:06",
+        "toll_booth": "Lincoln A1",
+        "toll_mxn": "52.0"
+      },
+      {
+        "segment": "Entronque Santa Catarina - Saltillo",
+        "state": "Coah",
+        "highway": "Mex 040",
+        "distance_km": "52.000",
+        "time_hrs": "00:43",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Nuevo León",
+    "origin_city": "Monterrey",
+    "dest_state": "Coahuila",
+    "dest_city": "Saltillo",
+    "vehicle_type": "Pick Ups",
+    "total_distance_km": "73.000",
+    "total_time_hrs": "01:04",
+    "total_toll_mxn": "52.0",
+    "segments_count": 3,
+    "segments": [
+      {
+        "segment": "Monterrey (Centro) - Entronque Lincoln",
+        "state": "NL",
+        "highway": "Zona Urbana",
+        "distance_km": "10.000",
+        "time_hrs": "00:15",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Lib. Monterrey (Ent. Lincoln - Ent. Santa Catarina)",
+        "state": "NL",
+        "highway": "N. L. s/n",
+        "distance_km": "11.000",
+        "time_hrs": "00:06",
+        "toll_booth": "Lincoln A1",
+        "toll_mxn": "52.0"
+      },
+      {
+        "segment": "Entronque Santa Catarina - Saltillo",
+        "state": "Coah",
+        "highway": "Mex 040",
+        "distance_km": "52.000",
+        "time_hrs": "00:43",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Nuevo León",
+    "origin_city": "Monterrey",
+    "dest_state": "Coahuila",
+    "dest_city": "Saltillo",
+    "vehicle_type": "Camión 2 ejes",
+    "total_distance_km": "73.000",
+    "total_time_hrs": "01:04",
+    "total_toll_mxn": "64.0",
+    "segments_count": 3,
+    "segments": [
+      {
+        "segment": "Monterrey (Centro) - Entronque Lincoln",
+        "state": "NL",
+        "highway": "Zona Urbana",
+        "distance_km": "10.000",
+        "time_hrs": "00:15",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Lib. Monterrey (Ent. Lincoln - Ent. Santa Catarina)",
+        "state": "NL",
+        "highway": "N. L. s/n",
+        "distance_km": "11.000",
+        "time_hrs": "00:06",
+        "toll_booth": "Lincoln A1",
+        "toll_mxn": "64.0"
+      },
+      {
+        "segment": "Entronque Santa Catarina - Saltillo",
+        "state": "Coah",
+        "highway": "Mex 040",
+        "distance_km": "52.000",
+        "time_hrs": "00:43",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Nuevo León",
+    "origin_city": "Monterrey",
+    "dest_state": "Coahuila",
+    "dest_city": "Saltillo",
+    "vehicle_type": "Camión 5 ejes",
+    "total_distance_km": "73.000",
+    "total_time_hrs": "01:04",
+    "total_toll_mxn": "150.0",
+    "segments_count": 3,
+    "segments": [
+      {
+        "segment": "Monterrey (Centro) - Entronque Lincoln",
+        "state": "NL",
+        "highway": "Zona Urbana",
+        "distance_km": "10.000",
+        "time_hrs": "00:15",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Lib. Monterrey (Ent. Lincoln - Ent. Santa Catarina)",
+        "state": "NL",
+        "highway": "N. L. s/n",
+        "distance_km": "11.000",
+        "time_hrs": "00:06",
+        "toll_booth": "Lincoln A1",
+        "toll_mxn": "150.0"
+      },
+      {
+        "segment": "Entronque Santa Catarina - Saltillo",
+        "state": "Coah",
+        "highway": "Mex 040",
+        "distance_km": "52.000",
+        "time_hrs": "00:43",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Querétaro",
+    "dest_city": "Querétaro",
+    "vehicle_type": "Automóvil",
+    "total_distance_km": "212.500",
+    "total_time_hrs": "02:18",
+    "total_toll_mxn": "338.0",
+    "segments_count": 6,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Entronque Los Reyes",
+        "state": "DF,Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "27.400",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Los Reyes - Ent. Zumpango)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "18.930",
+        "time_hrs": "00:10",
+        "toll_booth": "Tultepec",
+        "toll_mxn": "59.0"
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Zumpango - Ent. Jorobas)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "15.170",
+        "time_hrs": "00:08",
+        "toll_booth": "Jorobas (CM)",
+        "toll_mxn": "92.0"
+      },
+      {
+        "segment": "Entronque Jorobas - Tepeji del Río",
+        "state": "Hgo",
+        "highway": "Mex 057D",
+        "distance_km": "12.000",
+        "time_hrs": "00:06",
+        "toll_booth": "Jorobas",
+        "toll_mxn": "74.0"
+      },
+      {
+        "segment": "Tepeji del Río - Palmillas",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "81.000",
+        "time_hrs": "00:44",
+        "toll_booth": "Palmillas",
+        "toll_mxn": "113.0"
+      },
+      {
+        "segment": "Palmillas - Querétaro",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "58.000",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Querétaro",
+    "dest_city": "Querétaro",
+    "vehicle_type": "Pick Ups",
+    "total_distance_km": "212.500",
+    "total_time_hrs": "02:18",
+    "total_toll_mxn": "338.0",
+    "segments_count": 6,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Entronque Los Reyes",
+        "state": "DF,Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "27.400",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Los Reyes - Ent. Zumpango)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "18.930",
+        "time_hrs": "00:10",
+        "toll_booth": "Tultepec",
+        "toll_mxn": "59.0"
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Zumpango - Ent. Jorobas)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "15.170",
+        "time_hrs": "00:08",
+        "toll_booth": "Jorobas (CM)",
+        "toll_mxn": "92.0"
+      },
+      {
+        "segment": "Entronque Jorobas - Tepeji del Río",
+        "state": "Hgo",
+        "highway": "Mex 057D",
+        "distance_km": "12.000",
+        "time_hrs": "00:06",
+        "toll_booth": "Jorobas",
+        "toll_mxn": "74.0"
+      },
+      {
+        "segment": "Tepeji del Río - Palmillas",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "81.000",
+        "time_hrs": "00:44",
+        "toll_booth": "Palmillas",
+        "toll_mxn": "113.0"
+      },
+      {
+        "segment": "Palmillas - Querétaro",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "58.000",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Querétaro",
+    "dest_city": "Querétaro",
+    "vehicle_type": "Camión 2 ejes",
+    "total_distance_km": "212.500",
+    "total_time_hrs": "02:18",
+    "total_toll_mxn": "619.0",
+    "segments_count": 6,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Entronque Los Reyes",
+        "state": "DF,Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "27.400",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Los Reyes - Ent. Zumpango)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "18.930",
+        "time_hrs": "00:10",
+        "toll_booth": "Tultepec",
+        "toll_mxn": "88.0"
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Zumpango - Ent. Jorobas)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "15.170",
+        "time_hrs": "00:08",
+        "toll_booth": "Jorobas (CM)",
+        "toll_mxn": "151.0"
+      },
+      {
+        "segment": "Entronque Jorobas - Tepeji del Río",
+        "state": "Hgo",
+        "highway": "Mex 057D",
+        "distance_km": "12.000",
+        "time_hrs": "00:06",
+        "toll_booth": "Jorobas",
+        "toll_mxn": "140.0"
+      },
+      {
+        "segment": "Tepeji del Río - Palmillas",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "81.000",
+        "time_hrs": "00:44",
+        "toll_booth": "Palmillas",
+        "toll_mxn": "240.0"
+      },
+      {
+        "segment": "Palmillas - Querétaro",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "58.000",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Distrito Federal",
+    "origin_city": "Cd. De México (Zócalo)",
+    "dest_state": "Querétaro",
+    "dest_city": "Querétaro",
+    "vehicle_type": "Camión 5 ejes",
+    "total_distance_km": "212.500",
+    "total_time_hrs": "02:18",
+    "total_toll_mxn": "1,117.0",
+    "segments_count": 6,
+    "segments": [
+      {
+        "segment": "Cd. De México (Zócalo) - Entronque Los Reyes",
+        "state": "DF,Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "27.400",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Los Reyes - Ent. Zumpango)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "18.930",
+        "time_hrs": "00:10",
+        "toll_booth": "Tultepec",
+        "toll_mxn": "112.0"
+      },
+      {
+        "segment": "C. Mexiquense (Ent. Zumpango - Ent. Jorobas)",
+        "state": "Mex",
+        "highway": "EMex s/n",
+        "distance_km": "15.170",
+        "time_hrs": "00:08",
+        "toll_booth": "Jorobas (CM)",
+        "toll_mxn": "245.0"
+      },
+      {
+        "segment": "Entronque Jorobas - Tepeji del Río",
+        "state": "Hgo",
+        "highway": "Mex 057D",
+        "distance_km": "12.000",
+        "time_hrs": "00:06",
+        "toll_booth": "Jorobas",
+        "toll_mxn": "278.0"
+      },
+      {
+        "segment": "Tepeji del Río - Palmillas",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "81.000",
+        "time_hrs": "00:44",
+        "toll_booth": "Palmillas",
+        "toll_mxn": "482.0"
+      },
+      {
+        "segment": "Palmillas - Querétaro",
+        "state": "Qro",
+        "highway": "Mex 057D",
+        "distance_km": "58.000",
+        "time_hrs": "00:34",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "México",
+    "origin_city": "Toluca",
+    "dest_state": "Distrito Federal",
+    "dest_city": "Cd. De México (Zócalo)",
+    "vehicle_type": "Automóvil",
+    "total_distance_km": "70.900",
+    "total_time_hrs": "01:06",
+    "total_toll_mxn": "116.0",
+    "segments_count": 3,
+    "segments": [
+      {
+        "segment": "Toluca - La Marquesa",
+        "state": "Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "33.000",
+        "time_hrs": "00:25",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "La Marquesa - Entronque Reforma/Constituyentes",
+        "state": "DF",
+        "highway": "Mex 015D",
+        "distance_km": "22.000",
+        "time_hrs": "00:12",
+        "toll_booth": "La Venta",
+        "toll_mxn": "116.0"
+      },
+      {
+        "segment": "Entronque Reforma/Constituyentes - Cd. De México (Zócalo)",
+        "state": "DF",
+        "highway": "Zona Urbana",
+        "distance_km": "15.900",
+        "time_hrs": "00:29",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "México",
+    "origin_city": "Toluca",
+    "dest_state": "Distrito Federal",
+    "dest_city": "Cd. De México (Zócalo)",
+    "vehicle_type": "Pick Ups",
+    "total_distance_km": "70.900",
+    "total_time_hrs": "01:06",
+    "total_toll_mxn": "116.0",
+    "segments_count": 3,
+    "segments": [
+      {
+        "segment": "Toluca - La Marquesa",
+        "state": "Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "33.000",
+        "time_hrs": "00:25",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "La Marquesa - Entronque Reforma/Constituyentes",
+        "state": "DF",
+        "highway": "Mex 015D",
+        "distance_km": "22.000",
+        "time_hrs": "00:12",
+        "toll_booth": "La Venta",
+        "toll_mxn": "116.0"
+      },
+      {
+        "segment": "Entronque Reforma/Constituyentes - Cd. De México (Zócalo)",
+        "state": "DF",
+        "highway": "Zona Urbana",
+        "distance_km": "15.900",
+        "time_hrs": "00:29",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "México",
+    "origin_city": "Toluca",
+    "dest_state": "Distrito Federal",
+    "dest_city": "Cd. De México (Zócalo)",
+    "vehicle_type": "Camión 2 ejes",
+    "total_distance_km": "70.900",
+    "total_time_hrs": "01:06",
+    "total_toll_mxn": "244.0",
+    "segments_count": 3,
+    "segments": [
+      {
+        "segment": "Toluca - La Marquesa",
+        "state": "Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "33.000",
+        "time_hrs": "00:25",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "La Marquesa - Entronque Reforma/Constituyentes",
+        "state": "DF",
+        "highway": "Mex 015D",
+        "distance_km": "22.000",
+        "time_hrs": "00:12",
+        "toll_booth": "La Venta",
+        "toll_mxn": "244.0"
+      },
+      {
+        "segment": "Entronque Reforma/Constituyentes - Cd. De México (Zócalo)",
+        "state": "DF",
+        "highway": "Zona Urbana",
+        "distance_km": "15.900",
+        "time_hrs": "00:29",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "México",
+    "origin_city": "Toluca",
+    "dest_state": "Distrito Federal",
+    "dest_city": "Cd. De México (Zócalo)",
+    "vehicle_type": "Camión 5 ejes",
+    "total_distance_km": "70.900",
+    "total_time_hrs": "01:06",
+    "total_toll_mxn": "367.0",
+    "segments_count": 3,
+    "segments": [
+      {
+        "segment": "Toluca - La Marquesa",
+        "state": "Mex",
+        "highway": "Zona Urbana",
+        "distance_km": "33.000",
+        "time_hrs": "00:25",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "La Marquesa - Entronque Reforma/Constituyentes",
+        "state": "DF",
+        "highway": "Mex 015D",
+        "distance_km": "22.000",
+        "time_hrs": "00:12",
+        "toll_booth": "La Venta",
+        "toll_mxn": "367.0"
+      },
+      {
+        "segment": "Entronque Reforma/Constituyentes - Cd. De México (Zócalo)",
+        "state": "DF",
+        "highway": "Zona Urbana",
+        "distance_km": "15.900",
+        "time_hrs": "00:29",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Puebla",
+    "origin_city": "Puebla",
+    "dest_state": "Oaxaca",
+    "dest_city": "Oaxaca",
+    "vehicle_type": "Automóvil",
+    "total_distance_km": "344.020",
+    "total_time_hrs": "03:18",
+    "total_toll_mxn": "407.0",
+    "segments_count": 8,
+    "segments": [
+      {
+        "segment": "Puebla - Entronque Amozoc",
+        "state": "Pue",
+        "highway": "Mex 150",
+        "distance_km": "14.500",
+        "time_hrs": "00:10",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Amozoc - Entronque Acatzingo",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "28.510",
+        "time_hrs": "00:15",
+        "toll_booth": "Amozoc",
+        "toll_mxn": "94.0"
+      },
+      {
+        "segment": "Entronque Acatzingo - Cuacnopalan",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "37.000",
+        "time_hrs": "00:20",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Cuacnopalan - Entronque Tehuacán",
+        "state": "Pue",
+        "highway": "Mex 135D",
+        "distance_km": "41.100",
+        "time_hrs": "00:22",
+        "toll_booth": "Tehuacán",
+        "toll_mxn": "58.0"
+      },
+      {
+        "segment": "Entronque Tehuacán - San José Miahuatlán",
+        "state": "Pue",
+        "highway": "Mex 135D",
+        "distance_km": "30.370",
+        "time_hrs": "00:16",
+        "toll_booth": "Miahuatlán",
+        "toll_mxn": "42.0"
+      },
+      {
+        "segment": "San José Miahuatlán - Entronque Nochixtlán",
+        "state": "Oax",
+        "highway": "Mex 135D",
+        "distance_km": "108.540",
+        "time_hrs": "00:59",
+        "toll_booth": "Suchixtlahuaca",
+        "toll_mxn": "99.0"
+      },
+      {
+        "segment": "Entronque Nochixtlán - San Pablo Etla",
+        "state": "Oax",
+        "highway": "Mex 135D",
+        "distance_km": "76.000",
+        "time_hrs": "00:41",
+        "toll_booth": "Huitzo",
+        "toll_mxn": "114.0"
+      },
+      {
+        "segment": "San Pablo Etla - Oaxaca",
+        "state": "Oax",
+        "highway": "Zona Urbana",
+        "distance_km": "8.000",
+        "time_hrs": "00:12",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Puebla",
+    "origin_city": "Puebla",
+    "dest_state": "Oaxaca",
+    "dest_city": "Oaxaca",
+    "vehicle_type": "Pick Ups",
+    "total_distance_km": "344.020",
+    "total_time_hrs": "03:18",
+    "total_toll_mxn": "407.0",
+    "segments_count": 8,
+    "segments": [
+      {
+        "segment": "Puebla - Entronque Amozoc",
+        "state": "Pue",
+        "highway": "Mex 150",
+        "distance_km": "14.500",
+        "time_hrs": "00:10",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Amozoc - Entronque Acatzingo",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "28.510",
+        "time_hrs": "00:15",
+        "toll_booth": "Amozoc",
+        "toll_mxn": "94.0"
+      },
+      {
+        "segment": "Entronque Acatzingo - Cuacnopalan",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "37.000",
+        "time_hrs": "00:20",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Cuacnopalan - Entronque Tehuacán",
+        "state": "Pue",
+        "highway": "Mex 135D",
+        "distance_km": "41.100",
+        "time_hrs": "00:22",
+        "toll_booth": "Tehuacán",
+        "toll_mxn": "58.0"
+      },
+      {
+        "segment": "Entronque Tehuacán - San José Miahuatlán",
+        "state": "Pue",
+        "highway": "Mex 135D",
+        "distance_km": "30.370",
+        "time_hrs": "00:16",
+        "toll_booth": "Miahuatlán",
+        "toll_mxn": "42.0"
+      },
+      {
+        "segment": "San José Miahuatlán - Entronque Nochixtlán",
+        "state": "Oax",
+        "highway": "Mex 135D",
+        "distance_km": "108.540",
+        "time_hrs": "00:59",
+        "toll_booth": "Suchixtlahuaca",
+        "toll_mxn": "99.0"
+      },
+      {
+        "segment": "Entronque Nochixtlán - San Pablo Etla",
+        "state": "Oax",
+        "highway": "Mex 135D",
+        "distance_km": "76.000",
+        "time_hrs": "00:41",
+        "toll_booth": "Huitzo",
+        "toll_mxn": "114.0"
+      },
+      {
+        "segment": "San Pablo Etla - Oaxaca",
+        "state": "Oax",
+        "highway": "Zona Urbana",
+        "distance_km": "8.000",
+        "time_hrs": "00:12",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Puebla",
+    "origin_city": "Puebla",
+    "dest_state": "Oaxaca",
+    "dest_city": "Oaxaca",
+    "vehicle_type": "Camión 2 ejes",
+    "total_distance_km": "344.020",
+    "total_time_hrs": "03:18",
+    "total_toll_mxn": "884.0",
+    "segments_count": 8,
+    "segments": [
+      {
+        "segment": "Puebla - Entronque Amozoc",
+        "state": "Pue",
+        "highway": "Mex 150",
+        "distance_km": "14.500",
+        "time_hrs": "00:10",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Amozoc - Entronque Acatzingo",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "28.510",
+        "time_hrs": "00:15",
+        "toll_booth": "Amozoc",
+        "toll_mxn": "187.0"
+      },
+      {
+        "segment": "Entronque Acatzingo - Cuacnopalan",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "37.000",
+        "time_hrs": "00:20",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Cuacnopalan - Entronque Tehuacán",
+        "state": "Pue",
+        "highway": "Mex 135D",
+        "distance_km": "41.100",
+        "time_hrs": "00:22",
+        "toll_booth": "Tehuacán",
+        "toll_mxn": "136.0"
+      },
+      {
+        "segment": "Entronque Tehuacán - San José Miahuatlán",
+        "state": "Pue",
+        "highway": "Mex 135D",
+        "distance_km": "30.370",
+        "time_hrs": "00:16",
+        "toll_booth": "Miahuatlán",
+        "toll_mxn": "70.0"
+      },
+      {
+        "segment": "San José Miahuatlán - Entronque Nochixtlán",
+        "state": "Oax",
+        "highway": "Mex 135D",
+        "distance_km": "108.540",
+        "time_hrs": "00:59",
+        "toll_booth": "Suchixtlahuaca",
+        "toll_mxn": "217.0"
+      },
+      {
+        "segment": "Entronque Nochixtlán - San Pablo Etla",
+        "state": "Oax",
+        "highway": "Mex 135D",
+        "distance_km": "76.000",
+        "time_hrs": "00:41",
+        "toll_booth": "Huitzo",
+        "toll_mxn": "274.0"
+      },
+      {
+        "segment": "San Pablo Etla - Oaxaca",
+        "state": "Oax",
+        "highway": "Zona Urbana",
+        "distance_km": "8.000",
+        "time_hrs": "00:12",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Puebla",
+    "origin_city": "Puebla",
+    "dest_state": "Oaxaca",
+    "dest_city": "Oaxaca",
+    "vehicle_type": "Camión 5 ejes",
+    "total_distance_km": "344.020",
+    "total_time_hrs": "03:18",
+    "total_toll_mxn": "1,212.0",
+    "segments_count": 8,
+    "segments": [
+      {
+        "segment": "Puebla - Entronque Amozoc",
+        "state": "Pue",
+        "highway": "Mex 150",
+        "distance_km": "14.500",
+        "time_hrs": "00:10",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Amozoc - Entronque Acatzingo",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "28.510",
+        "time_hrs": "00:15",
+        "toll_booth": "Amozoc",
+        "toll_mxn": "360.0"
+      },
+      {
+        "segment": "Entronque Acatzingo - Cuacnopalan",
+        "state": "Pue",
+        "highway": "Mex 150D",
+        "distance_km": "37.000",
+        "time_hrs": "00:20",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Cuacnopalan - Entronque Tehuacán",
+        "state": "Pue",
+        "highway": "Mex 135D",
+        "distance_km": "41.100",
+        "time_hrs": "00:22",
+        "toll_booth": "Tehuacán",
+        "toll_mxn": "170.0"
+      },
+      {
+        "segment": "Entronque Tehuacán - San José Miahuatlán",
+        "state": "Pue",
+        "highway": "Mex 135D",
+        "distance_km": "30.370",
+        "time_hrs": "00:16",
+        "toll_booth": "Miahuatlán",
+        "toll_mxn": "99.0"
+      },
+      {
+        "segment": "San José Miahuatlán - Entronque Nochixtlán",
+        "state": "Oax",
+        "highway": "Mex 135D",
+        "distance_km": "108.540",
+        "time_hrs": "00:59",
+        "toll_booth": "Suchixtlahuaca",
+        "toll_mxn": "264.0"
+      },
+      {
+        "segment": "Entronque Nochixtlán - San Pablo Etla",
+        "state": "Oax",
+        "highway": "Mex 135D",
+        "distance_km": "76.000",
+        "time_hrs": "00:41",
+        "toll_booth": "Huitzo",
+        "toll_mxn": "319.0"
+      },
+      {
+        "segment": "San Pablo Etla - Oaxaca",
+        "state": "Oax",
+        "highway": "Zona Urbana",
+        "distance_km": "8.000",
+        "time_hrs": "00:12",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Sonora",
+    "origin_city": "Aeropuerto Hermosillo",
+    "dest_state": "Chihuahua",
+    "dest_city": "Chihuahua",
+    "vehicle_type": "Automóvil",
+    "total_distance_km": "888.780",
+    "total_time_hrs": "09:59",
+    "total_toll_mxn": "355.0",
+    "segments_count": 9,
+    "segments": [
+      {
+        "segment": "Aeropuerto Hermosillo - Entronque San Pedro",
+        "state": "Son",
+        "highway": "Son s/n",
+        "distance_km": "22.028",
+        "time_hrs": "00:20",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque San Pedro - Santa Ana",
+        "state": "Son",
+        "highway": "Mex 015D",
+        "distance_km": "157.233",
+        "time_hrs": "01:25",
+        "toll_booth": "Hermosillo",
+        "toll_mxn": "114.0"
+      },
+      {
+        "segment": "Santa Ana - Lib. Magdalena (Ent. La Misión)",
+        "state": "Son",
+        "highway": "Mex 015D",
+        "distance_km": "14.838",
+        "time_hrs": "00:08",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Tacícuri - Vado de Santa María",
+        "state": "Son,Chih",
+        "highway": "Mex 015",
+        "distance_km": "438.782",
+        "time_hrs": "05:41",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Vado de Santa María - Entronque El Berrendo",
+        "state": "Chih",
+        "highway": "Chih s/n",
+        "distance_km": "61.000",
+        "time_hrs": "00:33",
+        "toll_booth": "Galeana",
+        "toll_mxn": "81.0"
+      },
+      {
+        "segment": "Entronque El Berrendo - Entronque Ricardo Flores Magón",
+        "state": "Chih",
+        "highway": "Mex 010",
+        "distance_km": "13.000",
+        "time_hrs": "00:07",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Ricardo Flores Magón - Entronque Ojo Laguna",
+        "state": "Chih",
+        "highway": "Chih s/n",
+        "distance_km": "75.000",
+        "time_hrs": "00:40",
+        "toll_booth": "Ojo Laguna",
+        "toll_mxn": "67.0"
+      },
+      {
+        "segment": "Entronque Ojo Laguna - Sacramento",
+        "state": "Chih",
+        "highway": "Mex 045",
+        "distance_km": "77.000",
+        "time_hrs": "00:46",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Sacramento - Chihuahua",
+        "state": "Chih",
+        "highway": "Mex 045D",
+        "distance_km": "21.800",
+        "time_hrs": "00:11",
+        "toll_booth": "Sacramento**",
+        "toll_mxn": "55.0"
+      }
+    ]
+  },
+  {
+    "origin_state": "Sonora",
+    "origin_city": "Aeropuerto Hermosillo",
+    "dest_state": "Chihuahua",
+    "dest_city": "Chihuahua",
+    "vehicle_type": "Pick Ups",
+    "total_distance_km": "888.780",
+    "total_time_hrs": "09:59",
+    "total_toll_mxn": "355.0",
+    "segments_count": 9,
+    "segments": [
+      {
+        "segment": "Aeropuerto Hermosillo - Entronque San Pedro",
+        "state": "Son",
+        "highway": "Son s/n",
+        "distance_km": "22.028",
+        "time_hrs": "00:20",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque San Pedro - Santa Ana",
+        "state": "Son",
+        "highway": "Mex 015D",
+        "distance_km": "157.233",
+        "time_hrs": "01:25",
+        "toll_booth": "Hermosillo",
+        "toll_mxn": "114.0"
+      },
+      {
+        "segment": "Santa Ana - Lib. Magdalena (Ent. La Misión)",
+        "state": "Son",
+        "highway": "Mex 015D",
+        "distance_km": "14.838",
+        "time_hrs": "00:08",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Tacícuri - Vado de Santa María",
+        "state": "Son,Chih",
+        "highway": "Mex 015",
+        "distance_km": "438.782",
+        "time_hrs": "05:41",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Vado de Santa María - Entronque El Berrendo",
+        "state": "Chih",
+        "highway": "Chih s/n",
+        "distance_km": "61.000",
+        "time_hrs": "00:33",
+        "toll_booth": "Galeana",
+        "toll_mxn": "81.0"
+      },
+      {
+        "segment": "Entronque El Berrendo - Entronque Ricardo Flores Magón",
+        "state": "Chih",
+        "highway": "Mex 010",
+        "distance_km": "13.000",
+        "time_hrs": "00:07",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Ricardo Flores Magón - Entronque Ojo Laguna",
+        "state": "Chih",
+        "highway": "Chih s/n",
+        "distance_km": "75.000",
+        "time_hrs": "00:40",
+        "toll_booth": "Ojo Laguna",
+        "toll_mxn": "67.0"
+      },
+      {
+        "segment": "Entronque Ojo Laguna - Sacramento",
+        "state": "Chih",
+        "highway": "Mex 045",
+        "distance_km": "77.000",
+        "time_hrs": "00:46",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Sacramento - Chihuahua",
+        "state": "Chih",
+        "highway": "Mex 045D",
+        "distance_km": "21.800",
+        "time_hrs": "00:11",
+        "toll_booth": "Sacramento**",
+        "toll_mxn": "55.0"
+      }
+    ]
+  },
+  {
+    "origin_state": "Sonora",
+    "origin_city": "Aeropuerto Hermosillo",
+    "dest_state": "Chihuahua",
+    "dest_city": "Chihuahua",
+    "vehicle_type": "Camión 2 ejes",
+    "total_distance_km": "888.780",
+    "total_time_hrs": "09:59",
+    "total_toll_mxn": "578.0",
+    "segments_count": 9,
+    "segments": [
+      {
+        "segment": "Aeropuerto Hermosillo - Entronque San Pedro",
+        "state": "Son",
+        "highway": "Son s/n",
+        "distance_km": "22.028",
+        "time_hrs": "00:20",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque San Pedro - Santa Ana",
+        "state": "Son",
+        "highway": "Mex 015D",
+        "distance_km": "157.233",
+        "time_hrs": "01:25",
+        "toll_booth": "Hermosillo",
+        "toll_mxn": "191.0"
+      },
+      {
+        "segment": "Santa Ana - Lib. Magdalena (Ent. La Misión)",
+        "state": "Son",
+        "highway": "Mex 015D",
+        "distance_km": "14.838",
+        "time_hrs": "00:08",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Tacícuri - Vado de Santa María",
+        "state": "Son,Chih",
+        "highway": "Mex 015",
+        "distance_km": "438.782",
+        "time_hrs": "05:41",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Vado de Santa María - Entronque El Berrendo",
+        "state": "Chih",
+        "highway": "Chih s/n",
+        "distance_km": "61.000",
+        "time_hrs": "00:33",
+        "toll_booth": "Galeana",
+        "toll_mxn": "124.0"
+      },
+      {
+        "segment": "Entronque El Berrendo - Entronque Ricardo Flores Magón",
+        "state": "Chih",
+        "highway": "Mex 010",
+        "distance_km": "13.000",
+        "time_hrs": "00:07",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Ricardo Flores Magón - Entronque Ojo Laguna",
+        "state": "Chih",
+        "highway": "Chih s/n",
+        "distance_km": "75.000",
+        "time_hrs": "00:40",
+        "toll_booth": "Ojo Laguna",
+        "toll_mxn": "120.0"
+      },
+      {
+        "segment": "Entronque Ojo Laguna - Sacramento",
+        "state": "Chih",
+        "highway": "Mex 045",
+        "distance_km": "77.000",
+        "time_hrs": "00:46",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Sacramento - Chihuahua",
+        "state": "Chih",
+        "highway": "Mex 045D",
+        "distance_km": "21.800",
+        "time_hrs": "00:11",
+        "toll_booth": "Sacramento**",
+        "toll_mxn": "79.0"
+      }
+    ]
+  },
+  {
+    "origin_state": "Sonora",
+    "origin_city": "Aeropuerto Hermosillo",
+    "dest_state": "Chihuahua",
+    "dest_city": "Chihuahua",
+    "vehicle_type": "Camión 5 ejes",
+    "total_distance_km": "888.780",
+    "total_time_hrs": "09:59",
+    "total_toll_mxn": "1,036.0",
+    "segments_count": 9,
+    "segments": [
+      {
+        "segment": "Aeropuerto Hermosillo - Entronque San Pedro",
+        "state": "Son",
+        "highway": "Son s/n",
+        "distance_km": "22.028",
+        "time_hrs": "00:20",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque San Pedro - Santa Ana",
+        "state": "Son",
+        "highway": "Mex 015D",
+        "distance_km": "157.233",
+        "time_hrs": "01:25",
+        "toll_booth": "Hermosillo",
+        "toll_mxn": "287.0"
+      },
+      {
+        "segment": "Santa Ana - Lib. Magdalena (Ent. La Misión)",
+        "state": "Son",
+        "highway": "Mex 015D",
+        "distance_km": "14.838",
+        "time_hrs": "00:08",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Tacícuri - Vado de Santa María",
+        "state": "Son,Chih",
+        "highway": "Mex 015",
+        "distance_km": "438.782",
+        "time_hrs": "05:41",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Vado de Santa María - Entronque El Berrendo",
+        "state": "Chih",
+        "highway": "Chih s/n",
+        "distance_km": "61.000",
+        "time_hrs": "00:33",
+        "toll_booth": "Galeana",
+        "toll_mxn": "232.0"
+      },
+      {
+        "segment": "Entronque El Berrendo - Entronque Ricardo Flores Magón",
+        "state": "Chih",
+        "highway": "Mex 010",
+        "distance_km": "13.000",
+        "time_hrs": "00:07",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Entronque Ricardo Flores Magón - Entronque Ojo Laguna",
+        "state": "Chih",
+        "highway": "Chih s/n",
+        "distance_km": "75.000",
+        "time_hrs": "00:40",
+        "toll_booth": "Ojo Laguna",
+        "toll_mxn": "224.0"
+      },
+      {
+        "segment": "Entronque Ojo Laguna - Sacramento",
+        "state": "Chih",
+        "highway": "Mex 045",
+        "distance_km": "77.000",
+        "time_hrs": "00:46",
+        "toll_booth": "",
+        "toll_mxn": ""
+      },
+      {
+        "segment": "Sacramento - Chihuahua",
+        "state": "Chih",
+        "highway": "Mex 045D",
+        "distance_km": "21.800",
+        "time_hrs": "00:11",
+        "toll_booth": "Sacramento**",
+        "toll_mxn": "194.0"
+      }
+    ]
+  },
+  {
+    "origin_state": "Yucatán",
+    "origin_city": "Dzununcán, Mérida",
+    "dest_state": "Campeche",
+    "dest_city": "Campeche",
+    "vehicle_type": "Automóvil",
+    "total_distance_km": "165.060",
+    "total_time_hrs": "02:09",
+    "total_toll_mxn": "0.0",
+    "segments_count": 1,
+    "segments": [
+      {
+        "segment": "Dzununcán, Mérida - Campeche",
+        "state": "Yuc,Camp",
+        "highway": "Yuc s/n",
+        "distance_km": "165.060",
+        "time_hrs": "02:09",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Yucatán",
+    "origin_city": "Dzununcán, Mérida",
+    "dest_state": "Campeche",
+    "dest_city": "Campeche",
+    "vehicle_type": "Pick Ups",
+    "total_distance_km": "165.060",
+    "total_time_hrs": "02:09",
+    "total_toll_mxn": "0.0",
+    "segments_count": 1,
+    "segments": [
+      {
+        "segment": "Dzununcán, Mérida - Campeche",
+        "state": "Yuc,Camp",
+        "highway": "Yuc s/n",
+        "distance_km": "165.060",
+        "time_hrs": "02:09",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Yucatán",
+    "origin_city": "Dzununcán, Mérida",
+    "dest_state": "Campeche",
+    "dest_city": "Campeche",
+    "vehicle_type": "Camión 2 ejes",
+    "total_distance_km": "165.060",
+    "total_time_hrs": "02:09",
+    "total_toll_mxn": "0.0",
+    "segments_count": 1,
+    "segments": [
+      {
+        "segment": "Dzununcán, Mérida - Campeche",
+        "state": "Yuc,Camp",
+        "highway": "Yuc s/n",
+        "distance_km": "165.060",
+        "time_hrs": "02:09",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  },
+  {
+    "origin_state": "Yucatán",
+    "origin_city": "Dzununcán, Mérida",
+    "dest_state": "Campeche",
+    "dest_city": "Campeche",
+    "vehicle_type": "Camión 5 ejes",
+    "total_distance_km": "165.060",
+    "total_time_hrs": "02:09",
+    "total_toll_mxn": "0.0",
+    "segments_count": 1,
+    "segments": [
+      {
+        "segment": "Dzununcán, Mérida - Campeche",
+        "state": "Yuc,Camp",
+        "highway": "Yuc s/n",
+        "distance_km": "165.060",
+        "time_hrs": "02:09",
+        "toll_booth": "",
+        "toll_mxn": ""
+      }
+    ]
+  }
+]

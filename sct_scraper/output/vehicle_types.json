@@ -1,0 +1,66 @@
+[
+  {
+    "code": "1",
+    "vehicle_type": "Motocicleta"
+  },
+  {
+    "code": "2",
+    "vehicle_type": "Automóvil"
+  },
+  {
+    "code": "3",
+    "vehicle_type": "Automóvil remolque 1 eje"
+  },
+  {
+    "code": "4",
+    "vehicle_type": "Automóvil remolque 2 eje"
+  },
+  {
+    "code": "5",
+    "vehicle_type": "Pick Ups"
+  },
+  {
+    "code": "6",
+    "vehicle_type": "Autobus 2 ejes"
+  },
+  {
+    "code": "7",
+    "vehicle_type": "Autobus 3 ejes"
+  },
+  {
+    "code": "8",
+    "vehicle_type": "Autobus 4 ejes"
+  },
+  {
+    "code": "9",
+    "vehicle_type": "Camión 2 ejes"
+  },
+  {
+    "code": "10",
+    "vehicle_type": "Camión 3 ejes"
+  },
+  {
+    "code": "11",
+    "vehicle_type": "Camión 4 ejes"
+  },
+  {
+    "code": "12",
+    "vehicle_type": "Camión 5 ejes"
+  },
+  {
+    "code": "13",
+    "vehicle_type": "Camión 6 ejes"
+  },
+  {
+    "code": "14",
+    "vehicle_type": "Camión 7 ejes"
+  },
+  {
+    "code": "15",
+    "vehicle_type": "Camión 8 ejes"
+  },
+  {
+    "code": "16",
+    "vehicle_type": "Camión 9 ejes"
+  }
+]
